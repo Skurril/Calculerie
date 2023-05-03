@@ -8,4 +8,5 @@
     <string name="textNombredeux"></string>
     <string name="textOperateur"></string>
     <string name="boutonValide">VALIDER</string>
+    <string name="txtSecondesRestantes"></string>
 </resources>
