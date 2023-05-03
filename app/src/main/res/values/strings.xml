@@ -3,10 +3,11 @@
     <string name="boutonJeu">JOUER !</string>
     <string name="boutonMeilleurScore">MEILLEUR SCORE</string>
     <string name="boutonAPropos">À Propos</string>
-    <string name="textNombreVie">x</string>
+    <string name="textNombreVie">3</string>
     <string name="textNombreUn"></string>
     <string name="textNombredeux"></string>
     <string name="textOperateur"></string>
     <string name="boutonValide">VALIDER</string>
     <string name="txtSecondesRestantes"></string>
+    <string name="TxtResultat">Resultat</string>
 </resources>
