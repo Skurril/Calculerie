@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Calculerie</string>
+    <string name="boutonJeu">JOUER !</string>
+    <string name="boutonMeilleurScore">MEILLEUR SCORE</string>
+    <string name="boutonAPropos">À Propos</string>
+    <string name="textNombreVie">x</string>
+    <string name="textNombreUn"></string>
+    <string name="textNombredeux"></string>
+    <string name="textOperateur"></string>
+    <string name="boutonValide">VALIDER</string>
 </resources>
