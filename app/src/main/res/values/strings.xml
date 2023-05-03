@@ -9,6 +9,6 @@
     <string name="textOperateur"></string>
     <string name="boutonValide">VALIDER</string>
     <string name="txtSecondesRestantes"></string>
-    <string name="txtScore">Score : </string>
+    <string name="txtScore">Score :  </string>
     <string name="txtScorePoint"></string>
 </resources>
